@@ -22,7 +22,7 @@ Link to blog post:
 
 ## Daniel Phillips
 
-Link to blog post:
+Link to blog post: https://gist.github.com/dphilla/bb8a251041f4e16602591832fb0d9113
 
 
 ## Danny Trujillo
@@ -42,7 +42,7 @@ Link to blog post:
 
 ## Michael Butera
 
-Link to blog post:
+Link to blog post: https://gist.github.com/ButeraMV/a103046dd189c5e0d181d78b0a3c8821
 
 
 ## Michael Heft
